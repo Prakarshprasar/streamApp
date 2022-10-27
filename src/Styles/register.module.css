@@ -1,0 +1,14 @@
+.regform{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 15px;
+    margin: auto;
+    border: 3px black double;
+}
+.regform>p{
+    font-weight: 600;
+}
+.regform>input{
+    padding: 9px;
+}

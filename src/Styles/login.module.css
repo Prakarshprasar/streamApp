@@ -1,0 +1,14 @@
+.logform{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 15px;
+    margin: auto;
+    border: 3px black double;
+}
+.logform>p{
+    font-weight: 600;
+}
+.logform>input{
+    padding: 9px;
+}
